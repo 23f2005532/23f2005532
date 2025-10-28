@@ -117,7 +117,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:ehteshamansariadn@gmail.com" target="_blank">
