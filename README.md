@@ -87,7 +87,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
   <tr>
     <td style="padding:12px;">
-      <a href="https://github.com/23f2005532/Data-Pipeline-Simulator" style="color:#ffeb95; font-weight:bold;">🔄 Data Pipeline Simulator</a>
+      <a href="https://github.com/23f2005532/Data-Pipeline-Simulator" style="color:#ffeb95; font-weight:bold;">Data Pipeline Simulator</a>
     </td>
     <td style="padding:12px; color:#ffffff;">
       Simulates data ingestion, transformation, and processing — great for understanding ETL concepts and ML data flow.
