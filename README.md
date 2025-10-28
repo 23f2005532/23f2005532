@@ -11,7 +11,7 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 <div style="color:#ffffff; background-color:#0b132b; padding:15px; border-radius:10px; border:1px solid #1c2541;">
 I'm an undergraduate student at the <b>Indian Institute of Technology Madras</b>, pursuing a <b>BS in Data Science and Applications</b> (Graduating May 2027).  
 <br><br>
@@ -22,7 +22,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 ---
 
 
-<h2 align="center" style="color:#ffeb95;">💻 Tech Stack</h2>
+<h2 align="center" style="color:#ffeb95;">Tech Stack</h2>
 
 <table align="center" style="border-collapse: collapse; color: #ffffff; background-color: #0b132b; border: 2px solid #1c2541; border-radius: 12px; box-shadow: 0 0 10px #00000055; width: 90%; max-width: 800px;">
   <tr>
@@ -64,7 +64,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-<h2 align="center" style="color:#ffeb95;">🧱 Featured Projects</h2>
+<h2 align="center" style="color:#ffeb95;">Featured Projects</h2>
 
 <table align="center" style="border-collapse: collapse; background-color:#0b132b; border: 2px solid #1c2541; border-radius:12px; box-shadow:0 0 10px #00000055; width:90%; max-width:800px;">
   <tr>
@@ -129,7 +129,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 </p>
 
 
-## 🎯 Current Focus
+## Current Focus
 <div style="color:#ffffff; background-color:#0b132b; padding:15px; border-radius:10px; border:1px solid #1c2541;">
 <ul>
   <li>Deepening understanding of <b>Machine Learning fundamentals</b></li>
@@ -140,7 +140,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-<h2 align="center" style="color:#ffeb95;">📊 GitHub Overview</h2>
+<h2 align="center" style="color:#ffeb95;">GitHub Overview</h2>
 
 <table width="100%">
   <tr>
@@ -163,21 +163,21 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-<h2 align="center" style="color:#ffeb95;">📈 Contribution Graph</h2>
+<h2 align="center" style="color:#ffeb95;">Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=23f2005532&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" />
 </div>
 
 ---
 
-<h2 align="center" style="color:#ffeb95;">🌟 Thought of the Day</h2>
+<h2 align="center" style="color:#ffeb95;">Thought of the Day</h2>
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=To%20think%20is%20easy.%20To%20act%20is%20hard.%20But%20the%20hardest%20thing%20in%20the%20world%20is%20to%20act%20in%20accordance%20with%20your%20thinking.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Quote" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:ehteshamansariadn@gmail.com" target="_blank">
