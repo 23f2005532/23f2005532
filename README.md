@@ -102,7 +102,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
       <a href="https://github.com/23f2005532/Smart-Expense-Tracker-CLI-Dashboard-" style="color:#ffeb95; font-weight:bold;">Smart Expense Tracker (Web + CLI)</a>
     </td>
     <td style="padding:12px; color:#ffffff;">
-      he Smart Expense Tracker is a full-stack personal finance management app designed to help users easily track and analyze their daily expenses — from anywhere.
+      The Smart Expense Tracker is a full-stack personal finance management app designed to help users easily track and analyze their daily expenses — from anywhere.
     </td>
     <td style="padding:12px; color:#ffffff;">
       Flask · Vue.js · SQLite · Redis · Celery · Bootstrap
