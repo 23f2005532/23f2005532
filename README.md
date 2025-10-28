@@ -64,10 +64,70 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-## 🧱 Featured Projects
-> <span style="color:#c56a90;">Coming Soon — Working on full-stack and ML-focused projects worth showcasing.</span>
+<h2 align="center" style="color:#ffeb95;">🧱 Featured Projects</h2>
 
----
+<table align="center" style="border-collapse: collapse; background-color:#0b132b; border: 2px solid #1c2541; border-radius:12px; box-shadow:0 0 10px #00000055; width:90%; max-width:800px;">
+  <tr>
+    <th style="padding:12px; color:#c56a90; border-bottom:1px solid #1c2541; text-align:left;">Project</th>
+    <th style="padding:12px; color:#c56a90; border-bottom:1px solid #1c2541; text-align:left;">Description</th>
+    <th style="padding:12px; color:#c56a90; border-bottom:1px solid #1c2541; text-align:left;">Tech Stack</th>
+  </tr>
+
+  <tr>
+    <td style="padding:12px;">
+      <a href="https://github.com/23f2005532/treel" style="color:#ffeb95; font-weight:bold;">Treel</a>
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Treel is a modern, colorful, and fully featured Python CLI tool to visualize directory structures — a smarter, customizable alternative to the classic Unix tree command.
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Python · Colorama · Pypi
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px;">
+      <a href="https://github.com/23f2005532/Data-Pipeline-Simulator" style="color:#ffeb95; font-weight:bold;">🔄 Data Pipeline Simulator</a>
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Simulates data ingestion, transformation, and processing — great for understanding ETL concepts and ML data flow.
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Python · Pandas · FastAPI · Docker
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px;">
+      <a href="https://github.com/23f2005532/Smart-Expense-Tracker-CLI-Dashboard-" style="color:#ffeb95; font-weight:bold;">Smart Expense Tracker (Web + CLI)</a>
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      he Smart Expense Tracker is a full-stack personal finance management app designed to help users easily track and analyze their daily expenses — from anywhere.
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Flask · Vue.js · SQLite · Redis · Celery · Bootstrap
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px;">
+      <a href="https://github.com/23f2005532/GitHub-Data-Scraper-and-Analyzer" style="color:#ffeb95; font-weight:bold;">GitHub Data Scraper + Analyzer</a>
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      A smart data analytics project that collects GitHub user and repository data using the GitHub REST API, stores it in a structured database, and provides analytical insights like most active developers, language usage, repo activity trends, and more.
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Flask · Vue.js · SQLite · Redis · Celery · Bootstrap · GithubAPI · Machine Learning
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center" style="color:#c56a90;">
+  🔍 More projects coming soon — stay tuned as I continue building and learning.
+</p>
+
 
 ## 🎯 Current Focus
 <div style="color:#ffffff; background-color:#0b132b; padding:15px; border-radius:10px; border:1px solid #1c2541;">
