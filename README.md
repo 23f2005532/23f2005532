@@ -88,7 +88,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
       <img src="https://github-readme-stats.vercel.app/api?username=23f2005532&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=23f2005532&theme=nightowl&background=0%2C000000%2C441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=23f2005532&theme=nightowl&background=0%2C000000%2C441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
