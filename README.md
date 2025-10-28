@@ -117,30 +117,29 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 ---
 
-<h2 align="center" style="color:#ffeb95;">🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<p align="center">
   <a href="mailto:ehteshamansariadn@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="Gmail" />
+    <img src="./gmail.png" width="50" height="50" alt="Gmail">
   </a>
   <a href="https://x.com/ehtesham858" target="_blank">
-    <img src="./twitter.png" width="50" height="50" alt="Twitter" />
+    <img src="./twitter.png" width="50" height="50" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/ehtesha_m_" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
+    <img src="./instagram.png" width="50" height="50" alt="Instagram">
   </a>
   <a href="https://www.github.com/23f2005532" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="GitHub" />
+    <img src="./github.png" width="50" height="50" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/mdehteshamansari/" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn">
   </a>
   <a href="https://me.ehtesham.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" width="50" height="50" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" width="50" height="50" alt="Website">
   </a>
-</div>
+</p>
 
-<br/>
 
 <!--Footer-->
 <p align="center">
