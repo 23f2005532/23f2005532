@@ -93,7 +93,7 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2005532&repo=Data-Pipeline-Simulator&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2005532&repo=treel&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
     </td>
     <td align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=23f2005532&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
