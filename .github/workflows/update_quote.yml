@@ -1,12 +1,12 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Manually trigger the workflow
   schedule:
     - cron: '30 6 * * *'  # Schedule daily at 12:01 AM Indian Time
-# permissions:
-#   contents: write
 
+permissions:
+  contents: write 
 
 jobs:
   update-readme:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4 
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -29,8 +29,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='23f2005532' -c user.email='23f2005532@ds.study.iitm.ac.in' commit -m "Update README with daily quote" -a
+          git commit -m "Update README with daily quote" || echo "No changes to commit"
           git push
