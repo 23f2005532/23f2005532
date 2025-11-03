@@ -177,11 +177,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Outstanding%20people%20have%20one%20thing%20in%20common%3A%20an%20absolute%20sense%20of%20mission.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=Either%20you%20choose%20to%20stay%20in%20the%20shallow%20end%20of%20the%20pool%20or%20you%20go%20out%20into%20the%20ocean.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
