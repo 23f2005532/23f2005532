@@ -43,12 +43,6 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
     </td>
   </tr>
   <tr>
-    <th style="padding: 12px; color:#c56a90; border-bottom: 1px solid #1c2541; text-align:left;">Data Science & ML</th>
-    <td style="padding: 12px; border-bottom: 1px solid #1c2541;">
-      <b>NumPy</b> · <b>Pandas</b> · <b>Matplotlib</b> · <b>Seaborn</b> · <b>Scikit-learn</b> · <b>Jupyter Notebook</b>
-    </td>
-  </tr>
-  <tr>
     <th style="padding: 12px; color:#c56a90; text-align:left;">DevOps & Other Tools</th>
     <td style="padding: 12px;">
       <b>Git</b> · <b>REST APIs</b> · <b>Docker</b> · <b>Linux</b> · <b>JSON</b>
