@@ -8,10 +8,10 @@
   Exploring how data and intelligent systems can shape meaningful technology.
 </h3>
 
-
 ---
 
 ## About Me
+
 <div style="color:#ffffff; background-color:#0b132b; padding:15px; border-radius:10px; border:1px solid #1c2541;">
 I'm an undergraduate student at the <b>Indian Institute of Technology Madras</b>, pursuing a <b>BS in Data Science and Applications</b> (Graduating May 2027).  
 <br><br>
@@ -20,7 +20,6 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 </div>
 
 ---
-
 
 <h2 align="center" style="color:#ffeb95;">Tech Stack</h2>
 
@@ -35,6 +34,12 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
     <th style="padding: 12px; color:#c56a90; border-bottom: 1px solid #1c2541; text-align:left;">Frameworks & Tools</th>
     <td style="padding: 12px; border-bottom: 1px solid #1c2541;">
       <b>Flask</b> · <b>FastAPI</b> · <b>Django</b> · <b>Vue.js</b> · <b>Bootstrap</b> · <b>SQLite</b> · <b>Redis</b> · <b>Celery</b>
+    </td>
+  </tr>
+  <tr>
+    <th style="padding: 12px; color:#c56a90; border-bottom: 1px solid #1c2541; text-align:left;">Data Science & ML</th>
+    <td style="padding: 12px; border-bottom: 1px solid #1c2541;">
+      <b>NumPy</b> · <b>Pandas</b> · <b>Matplotlib</b> · <b>Seaborn</b> · <b>Scikit-learn</b> · <b>Jupyter Notebook</b>
     </td>
   </tr>
   <tr>
@@ -72,7 +77,17 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
     <th style="padding:12px; color:#c56a90; border-bottom:1px solid #1c2541; text-align:left;">Description</th>
     <th style="padding:12px; color:#c56a90; border-bottom:1px solid #1c2541; text-align:left;">Tech Stack</th>
   </tr>
-
+  <tr>
+    <td style="padding:12px;">
+      <a href="https://github.com/23f2005532/employee-attrition-prediction" style="color:#ffeb95; font-weight:bold;">Employee Attrition Prediction</a>
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      A Streamlit-based dashboard that predicts employee attrition risk using a machine learning model trained on organizational HR data. The tool not only estimates the likelihood of turnover but also explains the key factors influencing each prediction in simple, understandable language.
+    </td>
+    <td style="padding:12px; color:#ffffff;">
+      Python · Pandas · NumPy · XGBoost · Scikit-learn · Streamlit · Joblib · Git/Github
+    </td>
+  </tr>
   <tr>
     <td style="padding:12px;">
       <a href="https://github.com/23f2005532/treel" style="color:#ffeb95; font-weight:bold;">Treel</a>
@@ -128,8 +143,8 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
   🔍 More projects coming soon — stay tuned as I continue building and learning.
 </p>
 
-
 ## Current Focus
+
 <div style="color:#ffffff; background-color:#0b132b; padding:15px; border-radius:10px; border:1px solid #1c2541;">
 <ul>
   <li>Deepening understanding of <b>Machine Learning fundamentals</b></li>
@@ -178,7 +193,6 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
 ---
 
 <h2 align="center">Connect With Me</h2>
@@ -203,7 +217,6 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
     <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" width="50" height="50" alt="Website">
   </a>
 </p>
-
 
 <!--Footer-->
 <p align="center">
