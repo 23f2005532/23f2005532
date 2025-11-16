@@ -199,11 +199,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Whatever%20you%20think%20the%20world%20is%20withholding%20from%20you%2C%20you%20are%20withholding%20from%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Grudges%20are%20for%20those%20who%20insist%20that%20they%20are%20owed%20something%3B%20forgiveness%2C%20however%2C%20is%20for%20those%20who%20are%20substantial%20enough%20to%20move%20on.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
