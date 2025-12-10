@@ -223,11 +223,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20greatest%20discovery%20of%20all%20time%20is%20that%20a%20person%20can%20change%20their%20future%20by%20merely%20changing%20their%20attitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=Thoughts%20become%20things.%20If%20you%20see%20it%20in%20your%20mind%2C%20you%20will%20hold%20it%20in%20your%20hand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
