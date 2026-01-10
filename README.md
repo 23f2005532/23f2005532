@@ -254,11 +254,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Change%20will%20not%20come%20if%20we%20wait%20for%20some%20other%20person%2C%20or%20if%20we%20wait%20for%20some%20other%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20takes%20a%20great%20deal%20of%20bravery%20to%20stand%20up%20to%20our%20enemies%2C%20but%20just%20as%20much%20to%20stand%20up%20to%20our%20friends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
