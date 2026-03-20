@@ -323,11 +323,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=From%20a%20certain%20point%20onward%20there%20is%20no%20longer%20any%20turning%20back.%20That%20is%20the%20point%20that%20must%20be%20reached.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
