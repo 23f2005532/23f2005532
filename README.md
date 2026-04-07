@@ -341,11 +341,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=One%20of%20the%20most%20difficult%20things%20is%20not%20to%20change%20society%20-%20but%20to%20change%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20only%20knew%20the%20magnificence%20of%20the%203%2C%206%2C%20and%209%2C%20then%20you%20would%20have%20a%20key%20to%20the%20universe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
