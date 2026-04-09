@@ -343,11 +343,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Successful%20people%20are%20always%20looking%20for%20opportunities%20to%20help%20others.%20Unsuccessful%20people%20are%20always%20asking%2C%20'What's%20in%20it%20for%20me%3F'&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=The%20difference%20between%20impossible%20and%20possible%20is%20a%20willing%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
