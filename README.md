@@ -387,11 +387,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20must%20either%20modify%20your%20dreams%20or%20magnify%20your%20skills.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20time%20is%20limited%2C%20so%20don't%20waste%20it%20living%20someone%20elses.%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
