@@ -401,11 +401,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=If%20you%20think%20adventure%20is%20dangerous%2C%20try%20routine%3B%20it%20is%20lethal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you%20build%20the%20guts%20to%20do%20something%2C%20anything%2C%20then%20you%20better%20save%20enough%20to%20face%20the%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
