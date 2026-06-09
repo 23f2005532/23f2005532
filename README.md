@@ -404,11 +404,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20must%20either%20modify%20your%20dreams%20or%20magnify%20your%20skills.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Nature%20does%20not%20hurry%2C%20yet%20everything%20is%20accomplished.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
