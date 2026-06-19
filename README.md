@@ -414,11 +414,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=One%20day%2C%20in%20retrospect%2C%20the%20years%20of%20struggle%20will%20strike%20you%20as%20the%20most%20beautiful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=A%20dead%20thing%20can%20go%20with%20the%20stream%2C%20but%20only%20a%20living%20thing%20can%20go%20against%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
