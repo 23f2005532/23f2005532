@@ -416,11 +416,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20law%20of%20harvest%20is%20to%20reap%20more%20than%20you%20sow.%20Sow%20an%20act%2C%20and%20you%20reap%20a%20habit.%20Sow%20a%20habit%20and%20you%20reap%20a%20character.%20Sow%20a%20character%20and%20you%20reap%20a%20destiny.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=Truth%20is%20such%20a%20rare%20thing%2C%20it%20is%20delighted%20to%20tell%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
