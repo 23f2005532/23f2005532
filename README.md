@@ -432,11 +432,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=If%20you%20go%20out%20looking%20for%20friends%2C%20you're%20going%20to%20find%20they%20are%20very%20scarce.%20If%20you%20go%20out%20to%20be%20a%20friend%2C%20you'll%20find%20them%20everywhere.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=Take%20away%20love%20and%20our%20earth%20is%20a%20tomb.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
