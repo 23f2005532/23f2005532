@@ -454,11 +454,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Don't%20be%20afraid%20of%20enemies%20who%20attack%20you.%20Be%20afraid%20of%20the%20friends%20who%20flatter%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20believe%20you%20can%2C%20you%20can.%20If%20you%20believe%20you%20can't%2C%20then%2C%20well%20you%20can't.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
