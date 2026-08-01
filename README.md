@@ -457,11 +457,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Most%20people%20spend%20more%20time%20and%20energy%20going%20around%20problems%20than%20in%20trying%20to%20solve%20them.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=The%20man%20who%20asks%20a%20question%20is%20a%20fool%20for%20a%20minute%2C%20the%20man%20who%20does%20not%20ask%20is%20a%20fool%20for%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
