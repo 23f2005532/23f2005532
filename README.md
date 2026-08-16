@@ -472,11 +472,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Over%20time%2C%20loneliness%20gets%20inside%20you%20and%20doesn't%20go%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Only%20when%20I%20fall%20do%20I%20get%20up%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
