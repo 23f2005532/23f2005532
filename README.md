@@ -494,11 +494,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=In%20the%20practice%20of%20tolerance%2C%20one's%20enemy%20is%20the%20best%20teacher.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=Success%20seems%20to%20be%20connected%20to%20action.%20Successful%20people%20keep%20moving.%20They%20make%20mistakes%2C%20but%20they%20don't%20quit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
