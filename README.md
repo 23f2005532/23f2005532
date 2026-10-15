@@ -532,11 +532,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=The%20secret%20of%20perfect%20health%20lies%20in%20keeping%20the%20mind%20always%20cheerful%20-%20never%20worried%2C%20never%20hurried%2C%20never%20borne%20down%20by%20any%20fear%2C%20thought%20or%20anxiety.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=No%20matter%20what%20happens%20in%20life%2C%20never%20lose%20sight%20of%20who%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
