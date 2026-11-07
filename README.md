@@ -555,11 +555,13 @@ At present, I’m focused on deepening my understanding of <b>Machine Learning</
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Opportunity%20often%20comes%20disguised%20in%20the%20form%20of%20misfortune%20or%20temporary%20defeat.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Before%20you%20embark%20on%20a%20journey%20of%20revenge%2C%20dig%20two%20graves.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
